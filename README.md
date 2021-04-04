@@ -49,7 +49,7 @@ they/she
 ### 🔭 I’m currently learning
 * Algos & data structures
 
-### Outside of coding, I like...
+### :zap: Outside of coding, I like...
 * [Film photo](https://photos.app.goo.gl/u1BFwkHdZuSideYF6)
 * Gardening
 * Pottery
