@@ -1,4 +1,4 @@
-# Nice to meet you, I'm Kat 👋
+# Nice to meet you, I'm Kat :dizzy:
 
 <img src="/public/cabbages.jpg" alt="Wall of cabbages in Shanghai, China" id="cabbages"/>
 
