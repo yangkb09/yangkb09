@@ -1,8 +1,6 @@
 # Nice to meet you, I'm Kat 👋
 
-![Wall of cabbages in Shanghai, China](/public/cabbages.jpg)
-
-<img src="/public/cabbages.jpg" alt="Wall of cabbages in Shanghai, China" width="400" id="cabbages"/>
+<img src="/public/cabbages.jpg" alt="Wall of cabbages in Shanghai, China" id="cabbages"/>
 
 I'm a fullstack software engineer with a background in data science.
 
@@ -13,9 +11,27 @@ During the pandemic, I began learning to code to diversify my skills and pursue 
 ### :blossom: Pronouns
 they/she
 
+### :computer: Languages & Technologies
+* JavaScript
+* React 
+* Redux 
+* Express
+* Node.js
+* PostgreSQL
+* Sequelize
+* HTML
+* CSS
+* Ant Design
+* Google Cloud Natural Language API
+* Heroku
+
 ### :sparkles: Completed projects
+#### MyTab
+
+#### Virtual Realty
 
 ### 🌱 Currently working on
+#### SentiMeter
 
 ### Outside of coding, I like...
 * Film photo
@@ -23,17 +39,15 @@ they/she
 * Pottery
 * Playing with my (partner's) dog, Sasha
 
+### :email: Let's connect!
+* Email: yangkb09@gmail.com
+* [Linkedin](https://www.linkedin.com/in/yangkb09/)
+
 <!--
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--
-- ⚡ Fun fact: dog & cat lover, leaning toward dogs (don't tell my cats!)
 
 -->
