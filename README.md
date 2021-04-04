@@ -1,6 +1,8 @@
 # Nice to meet you, I'm Kat 👋
 
-!(/public/cabbages.jpg)
+![Wall of cabbages in Shanghai, China](/public/cabbages.jpg)
+
+<img src="/public/cabbages.jpg" alt="Wall of cabbages in Shanghai, China" width="400" id="cabbages"/>
 
 I'm a fullstack software engineer with a background in data science.
 
