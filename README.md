@@ -1,5 +1,7 @@
 # Nice to meet you, I'm Kat 👋
 
+!(/public/cabbages.jpg)
+
 I'm a fullstack software engineer with a background in data science.
 
 After graduating from the University of Maryland with a bachelor's in sociology, I began working at a nonprofit organization researching education inequity in the US.
@@ -29,7 +31,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 
+-
 - ⚡ Fun fact: dog & cat lover, leaning toward dogs (don't tell my cats!)
 
 -->
