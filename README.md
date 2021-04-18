@@ -31,7 +31,7 @@ they/she
 * [Demo](https://www.youtube.com/watch?v=2W1JQJa7L5c&list=PLx0iOsdUOUmnwv1vrUcoOhP736-omYGMN&index=6&ab_channel=FullstackAcademy)
 * [Heroku](https://mytab-ghp.herokuapp.com/signup)
 * [GitHub](https://github.com/yangkb09/MyTab)
-* Tech stack: JavaScript, PostgreSQL, Express, Sequelize, React, Redux, Ant Design, Amazon OAuth, Heroku
+* Tech stack: JavaScript, PostgreSQL, Express, Sequelize, React, Redux, Ant Design, Amazon OAuth, Currency.js, Heroku
 
 #### Virtual Realty
 *E-commerce real estate website allowing customers to browse getaway homes*
