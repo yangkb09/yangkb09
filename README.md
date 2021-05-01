@@ -41,9 +41,9 @@ they/she
 
 
 ### 🌱 In progress projects
-#### SentiMeter
+#### TweeterMeter
 *Web app enabling users to gauge the sentiment of a Twitter user's tweets using machine learning*
-* [GitHub](https://github.com/yangkb09/SentiMeter)
+* [GitHub](https://github.com/yangkb09/TweeterMeter)
 * Tech stack: Google Cloud Natural Language API, JavaScript, PostgreSQL, Express, Sequelize, React, Redux, CSS, Heroku
 
 ### 🔭 I’m currently learning
