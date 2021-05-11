@@ -29,13 +29,13 @@ they/she
 #### MyTab
 *Progressive web app allowing users to split bills and track running totals*
 * [Demo](https://www.youtube.com/watch?v=2W1JQJa7L5c&list=PLx0iOsdUOUmnwv1vrUcoOhP736-omYGMN&index=6&ab_channel=FullstackAcademy)
-* [Heroku](https://mytab-ghp.herokuapp.com/signup)
+* [Deployed Site](https://mytab-ghp.herokuapp.com/signup)
 * [GitHub](https://github.com/yangkb09/MyTab)
 * Tech stack: JavaScript, PostgreSQL, Express, Sequelize, React, Redux, Ant Design, Amazon OAuth, Currency.js, Heroku
 
 #### Virtual Realty
 *E-commerce real estate website allowing customers to browse getaway homes*
-* [Heroku](https://virtual-realty.herokuapp.com/)
+* [Deployed Site](https://virtual-realty.herokuapp.com/)
 * [GitHub](https://github.com/yangkb09/GraceShopper)
 * Tech stack: JavaScript, Express, Sequelize, React, Redux, Toast.js, Heroku, CSS
 
@@ -43,8 +43,9 @@ they/she
 ### 🌱 In progress projects
 #### TweeterMeter
 *Web app enabling users to gauge the sentiment of a Twitter user's tweets using machine learning*
+* [Deployed Site](https://tweetermeter.herokuapp.com/)
 * [GitHub](https://github.com/yangkb09/TweeterMeter)
-* Tech stack: Google Cloud Natural Language API, JavaScript, PostgreSQL, Express, Sequelize, React, Redux, CSS, Heroku
+* Tech stack: JavaScript, Google Cloud Natural Language API, Twitter API, PostgreSQL, Express, React, Redux, CSS, Heroku
 
 ### 🔭 I’m currently learning
 * Algos & data structures
