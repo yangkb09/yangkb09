@@ -56,4 +56,4 @@ they/she
 
 ### :email: Let's connect!
 * Email: yangkb09@gmail.com
-* [Linkedin](https://www.linkedin.com/in/yangkb09/)
+* [LinkedIn](https://www.linkedin.com/in/yangkb09/)
