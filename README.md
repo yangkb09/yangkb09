@@ -38,5 +38,4 @@ they/she
 * Playing with my (partner's) dog, [Sasha](https://photos.app.goo.gl/egZCirMfkPbbGYCU8)
 
 ### :email: Let's connect!
-* Email: yangkb09@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/yangkb09/)
