@@ -5,7 +5,7 @@
 I'm a software engineer at Grafana Labs with a background in data science.
 
 ### :blossom: Pronouns
-they/she
+they/them
 
 ### :computer: Languages & Technologies
 * Golang
